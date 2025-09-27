@@ -10,4 +10,4 @@ python-dotenv
 requests
 urllib3
 gunicorn
-python-magic-bin
+python-magic
