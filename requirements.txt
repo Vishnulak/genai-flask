@@ -3,7 +3,7 @@ flask-cors==4.0.0
 google-cloud-aiplatform==1.38.1
 google-cloud-documentai==2.23.0
 google-auth==2.25.2
-vertexai==1.38.1
+vertexai
 PyPDF2==3.0.1
 python-docx==1.1.0
 python-dotenv==1.0.0
